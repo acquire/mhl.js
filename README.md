@@ -1,6 +1,6 @@
 # michaels-helper-library.js
 
-![image-tool.jpg](image-tool.jpg)
+![image-tools.jpg](image-tools.jpg)
 
 Why?
 It's just a bunch of functions that I find useful.
